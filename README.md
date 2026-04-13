@@ -1,4 +1,4 @@
-# [📞Telegram](https://t.me/Rust0x_726)
+# [📞Telegram](https://t.me/FortuneRust)
 
 # Solana Arbitrage Bot Architecture
 
